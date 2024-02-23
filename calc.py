@@ -30,3 +30,4 @@ def division(a, b):
 #    print(division(a, b))
 #else: 
 #    print("Error")
+#тут могла быть Ваша рекламма
